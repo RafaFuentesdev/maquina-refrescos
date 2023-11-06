@@ -47,7 +47,3 @@
 #### **La Batalla del Código te Espera**:
 
 ¿Estás listo para asumir este reto y demostrar que puedes ser un maestro del código en Python? Afinar tus habilidades, codificar con propósito y mostrar lo que puedes lograr son las claves para triunfar en The Refresh Quest.
-
----
-
-Esta versión presenta el proyecto como un reto serio y atractivo, manteniendo un tono que invita al compromiso sin caer en una gamificación que pueda distraer o restar importancia a la seriedad del trabajo de codificación.
