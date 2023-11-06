@@ -34,7 +34,7 @@
 
 #### **Plazo de Entrega** 🗓️:
 
-- **[Insertar fecha límite aquí]**
+- **20 de Noviembre de 2023**
 
 #### **Criterios de Evaluación** 🏆:
 
